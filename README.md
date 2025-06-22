@@ -50,9 +50,24 @@ programmed at this time.
 
 - So, now I wanted to somehow merge my experience with OpenGL with the PyQt GUI environment and that is where
   the [*EagleEatApple website*](https://github.com/EagleEatApple/pyside6gl) came in handy. This website
-  essentially ports all the Pygame code to PySide6, which is a parallel development of PyQt6 but with different
-  licensing and maintainers ([*reference*](https://www.pythonguis.com/faq/pyqt6-vs-pyside6/)).
+  essentially ports all the above Pygame code to PySide6, which is a parallel development of PyQt6 but with
+  different licensing and maintainers ([*reference*](https://www.pythonguis.com/faq/pyqt6-vs-pyside6/)).
 
+- I am still not certain that I have set up the OpenGL environment correctly, but the following
+  websites helped me get this far:
+  - [*jethornton*](https://github.com/jethornton/pyqt6/tree/master)
+  - [*Qt for Python*](https://doc.qt.io/qtforpython-6/)
+
+- I am indebted to Paul Soper, a former work colleague who must have written several hundred utility
+  Python programs to assist us in our research efforts. I borrowed heavily from his efforts in establishing
+  atom and molecular objects, making extensive modifications along the way. I learned a lot from studying
+  his Python code. I firmly believe that he can write code as easily as most people walk!
+
+- The actual drawing and manipulation of the 3 different structural models originated from a program
+  I created back in graduate school (early 1980's ... yeah, I'm that old!!). I have been wanting to write
+  this program for many years now, and I guess I have finally succeeded. 
+
+  
 ## Contributions
 
 Anyone interested in contributing to this project should contact me by email:
