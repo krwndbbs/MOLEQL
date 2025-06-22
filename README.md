@@ -44,7 +44,11 @@ programmed at this time.
 
 - I initially thought programming in OpenGL might be beyond me, but then I discovered the book by
   Lee Stemkoski and Michael Pascale, "Developing Graphics Frameworks with Python and OpenGL" which I
-  downloaded from the Taylor & Francis Open Access [*site*](https://www.taylorfrancis.com/books/oa-mono/10.1201/9781003181378/developing-graphics-frameworks-python-opengl-lee-stemkoski-michael-pascale).
+  downloaded from the Taylor & Francis [*Open Access webpage*](https://www.taylorfrancis.com/books/oa-mono/10.1201/9781003181378/developing-graphics-frameworks-python-opengl-lee-stemkoski-michael-pascale). Pygame,
+  rather than PyQt, was used for input control, windowing, and image loading, and the associated code
+  for the book chapters may be found at [*this webpage*](https://github.com/ax-va/PyOpenGL-Pygame-Stemkoski-Pascale-2021).
+
+
 
 ## Contributions
 
