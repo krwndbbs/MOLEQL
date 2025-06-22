@@ -1,7 +1,7 @@
 # MOLEQL -- a basic molecular structure display program
 The MOLEQL ("molecule") project is the minimum Python code necessary to display 
 molecules in 3 different structure models: stick model, ball-and-stick model, or
-CPK or space-filling model. OpenGL is used to render the models as true 3D structures.
+CPK/space-filling model. OpenGL is used to render the models as true 3D structures.
 
 ## Installation
 
@@ -38,12 +38,12 @@ programmed at this time.
 
 ## Acknowledgements and Citations
 
-- I needed to learn GUI programming in the Python environment. The book, "Beginning PyQt-Second Edition",
+- I needed to learn GUI programming in the Python environment. The book, `Beginning PyQt-Second Edition`,
   by Joshua M. Willman was invaluable. [*Willman's GitHub*](https://github.com/Apress/Beginning-PyQt--second-edition/tree/main) page was also quite
   useful in this learning process.
 
 - I initially thought programming in OpenGL might be beyond me, but then I discovered the book by
-  Lee Stemkoski and Michael Pascale, "Developing Graphics Frameworks with Python and OpenGL" which I
+  Lee Stemkoski and Michael Pascale, `Developing Graphics Frameworks with Python and OpenGL` which I
   downloaded from the Taylor & Francis [*Open Access webpage*](https://www.taylorfrancis.com/books/oa-mono/10.1201/9781003181378/developing-graphics-frameworks-python-opengl-lee-stemkoski-michael-pascale). Pygame,
   rather than PyQt, was used for input control, windowing, and image loading, and the associated code
   for the book chapters may be found at [*this webpage*](https://github.com/ax-va/PyOpenGL-Pygame-Stemkoski-Pascale-2021).
@@ -63,7 +63,7 @@ programmed at this time.
   atom and molecular objects, making extensive modifications along the way. I learned a lot from studying
   his Python code. I firmly believe that he can write code as easily as most people walk!
 
-- The actual drawing and manipulation of the 3 different structural models originated from a program
+- The actual drawing and manipulation of the 3 different structure models originated from a program
   I created back in graduate school (early 1980's ... yeah, I'm that old!!). I have been wanting to write
   this program for many years now, and I guess I have finally succeeded. 
 
@@ -74,5 +74,5 @@ Anyone interested in contributing to this project should contact me by email:
 
 kerwin.d.dobbs@gmail.com
 
-Please keep in mind that I'm new to GitHub and how it works. It may take me some
+Please keep in mind that I'm new to GitHub, and it may take me some
 time to figure out how some things work.
