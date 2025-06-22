@@ -48,7 +48,10 @@ programmed at this time.
   rather than PyQt, was used for input control, windowing, and image loading, and the associated code
   for the book chapters may be found at [*this webpage*](https://github.com/ax-va/PyOpenGL-Pygame-Stemkoski-Pascale-2021).
 
-
+- So, now I wanted to somehow merge my experience with OpenGL with the PyQt GUI environment and that is where
+  the [*EagleEatApple website*](https://github.com/EagleEatApple/pyside6gl) came in handy. This website
+  essentially ports all the Pygame code to PySide6, which is a parallel development of PyQt6 but with different
+  licensing and maintainers ([*reference*](https://www.pythonguis.com/faq/pyqt6-vs-pyside6/)).
 
 ## Contributions
 
