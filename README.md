@@ -42,6 +42,10 @@ programmed at this time.
   by Joshua M. Willman was invaluable. [*Willman's GitHub*](https://github.com/Apress/Beginning-PyQt--second-edition/tree/main) page was also quite
   useful in this learning process.
 
+- I initially thought programming in OpenGL might be beyond me, but then I discovered the book by
+  Lee Stemkoski and Michael Pascale, "Developing Graphics Frameworks with Python and OpenGL" which I
+  downloaded from the Taylor & Francis Open Access [*site*](https://www.taylorfrancis.com/books/oa-mono/10.1201/9781003181378/developing-graphics-frameworks-python-opengl-lee-stemkoski-michael-pascale).
+
 ## Contributions
 
 Anyone interested in contributing to this project should contact me by email:
