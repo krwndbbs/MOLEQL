@@ -14,7 +14,7 @@ libraries:
 
 - numpy (version 2.2.6): `pip3 install numpy`
 
-- PyOpenGL (version 3.1.9): `pip3 install PyOpenGL PyOpenGL_accelerate` la;ke;lksaa0q;ewqe;jv;awerq
+- PyOpenGL (version 3.1.9): `pip3 install PyOpenGL PyOpenGL_accelerate`
 
 - PySide6 (version 6.9.1): `pip3 install PySide6`
 
@@ -38,7 +38,9 @@ programmed at this time.
 
 ## Acknowledgements and Citations
 
-I needed to learn GUI programming in the Python environment.  
+- I needed to learn GUI programming in the Python environment. The book, "Beginning PyQt-Second Edition",
+  by Joshua M. Willman was invaluable. [*Willman's GitHub*](https://github.com/Apress/Beginning-PyQt--second-edition/tree/main) page was also quite
+  useful in this learning process.
 
 ## Contributions
 
