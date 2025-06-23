@@ -6,7 +6,7 @@ CPK/space-filling model. OpenGL is used to render the models as true 3D structur
 ## Installation
 
 My installation of the code (*.py, *.xyz, and directories) is within a main 
-directory that I have named "moleql". The code was developed on an 2020 iMac
+directory that I have named "moleql". The code was developed on a 2020 iMac
 with macOS Monterey 12.7.5 under Python 3.10. Without any modifications, the 
 code runs fine in my current environment of Python 3.13 on a 2025 Mac Studio 
 with macOS Sequoia 15.5. Besides Python, you will need to install the following 
@@ -42,7 +42,7 @@ programmed at this time.
   by Joshua M. Willman was invaluable. [*Willman's GitHub*](https://github.com/Apress/Beginning-PyQt--second-edition/tree/main) page was also quite
   useful in this learning process.
 
-- I initially thought programming in OpenGL might be beyond me, but then I discovered the book by
+- I was initially intimidated by OpenGl programming, but then I discovered the book by
   Lee Stemkoski and Michael Pascale, `Developing Graphics Frameworks with Python and OpenGL` which I
   downloaded from the Taylor & Francis [*Open Access webpage*](https://www.taylorfrancis.com/books/oa-mono/10.1201/9781003181378/developing-graphics-frameworks-python-opengl-lee-stemkoski-michael-pascale). Pygame,
   rather than PyQt, was used for input control, windowing, and image loading, and the associated code
